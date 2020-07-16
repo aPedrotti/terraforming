@@ -3,10 +3,10 @@ variable "hash_commit" {
 }
 
 variable "access_key" {
-  default = "AKIA2KZRU6SH7O7QPKGE"
+  default = ""
 }
 variable "secret_key" {
-  default = "CTv0f0BcVc9DLPezM08XFMLlQ5gL/qClBQKLij5V"
+  default = ""
 }
 
 variable "ami_ubuntu_west" {
